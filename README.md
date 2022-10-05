@@ -1,2 +1,3 @@
 # 0010-Holden
 Group work for 0010-Lab6
+Our program adds three to whatever you enter, string or int or else...
