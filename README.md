@@ -1,3 +1,3 @@
 # 0010-Holden
-Group work for 0010-Lab6
+Group work for 0010-Lab6, Rory McCann and Holden Gent
 Our program adds three to whatever you enter, string or int or else...
