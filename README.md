@@ -12,5 +12,4 @@ Our program takes whatever two values the user inputs, and adds them together if
 
 The program can be vastly shortened, by removing some tests and skipping straight to concatenation if you'd like to assist. :)
 
-![alt text]
-(https://media.giphy.com/media/3orifhF0g6TPRgs3G8/giphy.gif)
+![alt text](https://media.giphy.com/media/3orifhF0g6TPRgs3G8/giphy.gif)
